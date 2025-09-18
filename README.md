@@ -41,7 +41,7 @@ The game uses sprites for plants, zombies, and bullets, and includes animations,
 2. Open **index.html** in your browser.
 3. Enjoy the game 🎮.
 
-🎮 Live (Demo) : https://worachat-dev.github.io/Simple-Plants-vs-Zombies/
+🎮 Live (Demo) : https://auto282553-cmyk.github.io/loading-page-003/
 
 ---
 
